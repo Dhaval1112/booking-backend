@@ -24,3 +24,5 @@ Thumbs.db
 
 # migration files
 models/migrations
+
+package-lock.json
