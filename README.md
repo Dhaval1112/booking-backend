@@ -20,11 +20,14 @@ Wich inclues signup, login and booking functionality.
 npm install
 ```
 
-## ⚙️ Update Env files
+## ⚙️ Create Env files with mentioned values
 
 NODE_ENV=
+
 PORT=
+
 JWT_SECRET=
+
 DATABASE_URL= 
 
 ## 🧾 Migrate prisma schema
